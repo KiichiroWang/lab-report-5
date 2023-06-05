@@ -1,23 +1,24 @@
 # Lab Report 5
 
 ### Original Student Post
-![Image]("Student Post pt1.png")
+![Post1]("Student Post pt1.png")
 
-![Image]("Student Post pt2.png")
+![Post2]("Student Post pt2.png")
 
-![Image]("Student Post pt3.png")
+![Post3]("Student Post pt3.png")
 
 
 ### TA Response
-![Image]("TA Post.png")
+![TA]("TA Post.png")
 
 
 ### Student Response
-![Image]("Student Response.PNG")
+![Student]("Student Response.PNG")
 
 
 ### Additional Info
 ![Img]("FileStructure.PNG)
+
 ``import java.io.IOException;
 import java.net.URI;
 
