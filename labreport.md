@@ -60,3 +60,6 @@ class NumberServer {
 }
 
 ``
+
+To edit, simply take the Server.start line out of the else statement.
+Bash script was unchanged and is included in the student post.
