@@ -24,7 +24,7 @@ __File Structure__
 
 __Code Before Fix__
 
-`
+```
 import java.io.IOException;
 import java.net.URI;
 
@@ -64,7 +64,7 @@ class NumberServer {
         }
     }
 }
-`
+```
 
 __How to fix bug__
 
