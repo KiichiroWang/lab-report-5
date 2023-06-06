@@ -3,17 +3,17 @@
 ### Original Student Post
 ![Post1](FirstPost.PNG)
 
-![Post2](Student Post pt2.PNG)
+![Post2](SecondPost.PNG)
 
-![Post3](Student Post pt3.PNG)
+![Post3](ThirdPost.PNG)
 
 
 ### TA Response
-![TA](TA Post.PNG)
+![TA](TAPost.PNG)
 
 
 ### Student Response
-![Student](Student Response.PNG)
+![Student](StudentResponse.PNG)
 
 
 ### Additional Info
