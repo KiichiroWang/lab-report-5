@@ -24,7 +24,8 @@ __File Structure__
 
 __Code Before Fix__
 
-``import java.io.IOException;
+`
+import java.io.IOException;
 import java.net.URI;
 
 class Handler implements URLHandler {
@@ -62,7 +63,8 @@ class NumberServer {
             Server.start(9000, new Handler());
         }
     }
-}``
+}
+`
 
 __How to fix bug__
 
