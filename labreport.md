@@ -17,8 +17,11 @@
 
 
 ### Additional Info
+
+__File Structure__
 ![Img](FileStructure.PNG)
 
+__Code Before Fix__
 ``import java.io.IOException;
 import java.net.URI;
 
@@ -57,9 +60,8 @@ class NumberServer {
             Server.start(9000, new Handler());
         }
     }
-}
+}``
 
-``
-
+__How to fix bug__
 To edit, simply take the Server.start line out of the else statement.
 Bash script was unchanged and is included in the student post.
