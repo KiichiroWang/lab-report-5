@@ -1,7 +1,7 @@
 # Lab Report 5
 
 ### Original Student Post
-![Post1](StudentPostpt1.PNG)
+![Post1](FirstPost.PNG)
 
 ![Post2](Student Post pt2.PNG)
 
